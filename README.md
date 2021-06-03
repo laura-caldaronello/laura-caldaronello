@@ -1,2 +1,2 @@
 <h1>Welcome to laura-caldaronello's GitHub profile!</h1>
-![](img/front.png | width=100)
+<img height="40" src="img/front.png">
